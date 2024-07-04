@@ -1,5 +1,3 @@
-# Stock-Market-prediction-app
-
 
 # Stock Market Prediction App
 
